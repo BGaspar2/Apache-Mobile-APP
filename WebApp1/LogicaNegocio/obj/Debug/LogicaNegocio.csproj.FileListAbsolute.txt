@@ -1,0 +1,12 @@
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Debug\CursoSM.LogicaNegocio.dll
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Debug\CursoSM.LogicaNegocio.pdb
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Debug\CursoSM.AccesoDatos.dll
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Debug\CursoSM.AccesoDatos.pdb
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Debug\CursoSM.AccesoDatos.dll.config
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\obj\Debug\CursoSM.LogicaNegocio.dll
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\obj\Debug\CursoSM.LogicaNegocio.pdb

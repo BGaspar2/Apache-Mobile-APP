@@ -1,0 +1,10 @@
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\AccesoDatos\bin\Debug\CursoSM.AccesoDatos.dll.config
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\AccesoDatos\bin\Debug\CursoSM.AccesoDatos.dll
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\AccesoDatos\bin\Debug\CursoSM.AccesoDatos.pdb
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\AccesoDatos\bin\Debug\EntityFramework.dll
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\AccesoDatos\bin\Debug\EntityFramework.xml
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\AccesoDatos\obj\Debug\CursoSM.AccesoDatos.dll
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\AccesoDatos\obj\Debug\CursoSM.AccesoDatos.pdb

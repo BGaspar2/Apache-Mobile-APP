@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RESERVAMEModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="RESTAURANTE">
+    <Key>
+      <PropertyRef Name="cCodeRest" />
+    </Key>
+    <Property Name="cCodeRest" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cNombre" Type="String" MaxLength="120" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cDireccion" Type="String" MaxLength="240" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cContacto" Type="String" MaxLength="240" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="dLatitud" Type="Decimal" Precision="18" Scale="6" Nullable="false" />
+    <Property Name="dLongitud" Type="Decimal" Precision="18" Scale="6" Nullable="false" />
+    <Property Name="cParking" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="cInternet" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="cVisa" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="cMastercard" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="eValoracion" Type="Int32" Nullable="false" />
+    <Property Name="cTelefono" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cCelular" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cHorario" Type="String" MaxLength="60" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="USUARIO">
+    <Key>
+      <PropertyRef Name="cUsername" />
+    </Key>
+    <Property Name="cUsername" Type="String" MaxLength="120" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cPassword" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cFullname" Type="String" MaxLength="120" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cCelular" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cEmail" Type="String" MaxLength="240" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="RESERVAMEEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="RESTAURANTE" EntityType="Self.RESTAURANTE" />
+    <EntitySet Name="USUARIO" EntityType="Self.USUARIO" />
+  </EntityContainer>
+</Schema>

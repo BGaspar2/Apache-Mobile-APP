@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp2", "WebApp2\WebApp2.csproj", "{B54EF787-B063-4CE2-8E4E-987264440A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{1E40241F-5C60-4A2B-8AD6-A91F5E4E9E86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaNegocio", "LogicaNegocio\LogicaNegocio.csproj", "{3115DAA3-E176-47CA-B041-1C055C54C24F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54EF787-B063-4CE2-8E4E-987264440A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54EF787-B063-4CE2-8E4E-987264440A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54EF787-B063-4CE2-8E4E-987264440A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54EF787-B063-4CE2-8E4E-987264440A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E40241F-5C60-4A2B-8AD6-A91F5E4E9E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E40241F-5C60-4A2B-8AD6-A91F5E4E9E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E40241F-5C60-4A2B-8AD6-A91F5E4E9E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E40241F-5C60-4A2B-8AD6-A91F5E4E9E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3115DAA3-E176-47CA-B041-1C055C54C24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3115DAA3-E176-47CA-B041-1C055C54C24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3115DAA3-E176-47CA-B041-1C055C54C24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3115DAA3-E176-47CA-B041-1C055C54C24F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83D2853E-3CCF-4491-828C-C2E42D897B65}
+	EndGlobalSection
+EndGlobal

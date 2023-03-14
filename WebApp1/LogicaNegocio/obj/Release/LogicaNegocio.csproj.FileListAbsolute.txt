@@ -1,0 +1,12 @@
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Release\CursoSM.LogicaNegocio.dll
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Release\CursoSM.LogicaNegocio.pdb
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Release\CursoSM.AccesoDatos.dll
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Release\EntityFramework.dll
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Release\CursoSM.AccesoDatos.pdb
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Release\CursoSM.AccesoDatos.dll.config
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\bin\Release\EntityFramework.xml
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\obj\Release\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\obj\Release\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\obj\Release\LogicaNegocio.csproj.CopyComplete
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\obj\Release\CursoSM.LogicaNegocio.dll
+C:\Users\BGaspar2\source\repos\WebApp1\LogicaNegocio\obj\Release\CursoSM.LogicaNegocio.pdb

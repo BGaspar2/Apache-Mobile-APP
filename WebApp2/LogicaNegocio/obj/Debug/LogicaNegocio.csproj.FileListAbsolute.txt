@@ -1,0 +1,12 @@
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\LogicaNegocio\bin\Debug\CursoSM.LogicaNegocio.dll
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\LogicaNegocio\bin\Debug\CursoSM.LogicaNegocio.pdb
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\LogicaNegocio\bin\Debug\CursoSM.AccesoDatos.dll
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\LogicaNegocio\bin\Debug\EntityFramework.dll
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\LogicaNegocio\bin\Debug\CursoSM.AccesoDatos.pdb
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\LogicaNegocio\bin\Debug\CursoSM.AccesoDatos.dll.config
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\LogicaNegocio\bin\Debug\EntityFramework.xml
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\LogicaNegocio\obj\Debug\CursoSM.LogicaNegocio.dll
+D:\Pucese\5to\DBP\AppMovilesApache\ProyectoMovilesDBP\WebApp2\LogicaNegocio\obj\Debug\CursoSM.LogicaNegocio.pdb
